@@ -3,6 +3,7 @@ import './PropertyCard.scss';
 import PropTypes from 'prop-types';
 
 const ImageAndPrice = ({ price, mainImage }) => {
+    // sometimes mainImage is not found
     return (
         <div className="ImageAndPrice">
             <div className="image">

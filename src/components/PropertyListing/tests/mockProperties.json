@@ -1,0 +1,41 @@
+[
+    {
+        "id": 123,
+        "bedrooms": 3,
+        "summary": "Situated moments from the River Thames in Old Chelsea, this contemporary three bedroom ...",
+        "displayAddress": "CHEYNE WALK, CHELSEA, SW3",
+        "propertyType": "Flat",
+        "price": 1950000,
+        "branchName": "M2 Property, London",
+        "propertyUrl": "/property-for-sale/property-123.html",
+        "contactUrl": "/property-for-sale/contactBranch.html?propertyId=123",
+        "propertyTitle": "3 bedroom flat for sale",
+        "mainImage": "https://media.rightmove.co.uk/dir/crop/10:9-16:9/34k/33998/73864112/33998_542689_IMG_01_0001_max_476x317.jpg"
+    },
+    {
+        "id": 456,
+        "bedrooms": 2,
+        "summary": "This well presented and modern two bedroom flat is situated within a superb development, ...",
+        "displayAddress": "Renaissance, Lewisham, SE13",
+        "propertyType": "Flat",
+        "price": 599950,
+        "branchName": "Foxtons, Blackheath",
+        "propertyUrl": "/property-for-sale/property-456.html",
+        "contactUrl": "/property-for-sale/contactBranch.html?propertyId=456",
+        "propertyTitle": "2 bedroom flat for sale",
+        "mainImage": "https://media.rightmove.co.uk/dir/crop/10:9-16:9/76k/75148/59309477/75148_981263_IMG_17_0000_max_476x317.jpg"
+    },
+    {
+        "id": 789,
+        "bedrooms": 3,
+        "summary": "ABC Estates are pleased to present this 3 bedroom semi detached house For Sale. Located in a...",
+        "displayAddress": "Chatsworth Close, London",
+        "propertyType": "Semi-Detached",
+        "price": 749950,
+        "branchName": "ABC Estates London Limited, Hendon",
+        "propertyUrl": "/property-for-sale/property-789.html",
+        "contactUrl": "/property-for-sale/contactBranch.html?propertyId=789",
+        "propertyTitle": "3 bedroom semi-detached house for sale",
+        "mainImage": "https://media.rightmove.co.uk/dir/crop/10:9-16:9/78k/77804/56463883/77804_4199681_IMG_01_0000_max_476x317.jpg"
+    }
+]
